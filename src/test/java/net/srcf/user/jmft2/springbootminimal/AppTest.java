@@ -1,4 +1,4 @@
-package net.srcf.user.jmft2;
+package net.srcf.user.jmft2.springbootminimal;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
