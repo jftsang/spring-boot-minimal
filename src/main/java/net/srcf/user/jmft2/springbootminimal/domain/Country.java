@@ -1,8 +1,6 @@
-package net.srcf.user.jmft2.springbootminimal;
+package net.srcf.user.jmft2.springbootminimal.domain;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 import lombok.AllArgsConstructor;

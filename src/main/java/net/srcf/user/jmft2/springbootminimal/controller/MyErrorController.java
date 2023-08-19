@@ -1,4 +1,4 @@
-package net.srcf.user.jmft2.springbootminimal;
+package net.srcf.user.jmft2.springbootminimal.controller;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;

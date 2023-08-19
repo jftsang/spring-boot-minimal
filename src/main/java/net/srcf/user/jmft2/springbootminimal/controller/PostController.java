@@ -1,8 +1,10 @@
-package net.srcf.user.jmft2.springbootminimal;
+package net.srcf.user.jmft2.springbootminimal.controller;
 
 import static java.util.Map.entry;
 
 import java.util.Map;
+
+import net.srcf.user.jmft2.springbootminimal.JsonData;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.util.MultiValueMap;
 

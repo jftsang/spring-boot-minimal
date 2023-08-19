@@ -1,6 +1,8 @@
-package net.srcf.user.jmft2.springbootminimal;
+package net.srcf.user.jmft2.springbootminimal.controller;
 
 import java.util.List;
+
+import net.srcf.user.jmft2.springbootminimal.domain.Country;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
