@@ -1,4 +1,4 @@
-package net.srcf.user.jmft2.springbootminimal.domain;
+package net.srcf.user.jmft2.springbootminimal.models;
 
 import java.util.ArrayList;
 import java.util.List;
